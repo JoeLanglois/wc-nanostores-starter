@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lit-html": "^2.4.0",
+    "nanostores": "^0.7.0"
+  }
+}
